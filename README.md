@@ -1,16 +1,25 @@
-### Hi there 👋
+# Olá! :vulcan_salute: 
 
-<!--
-**FranSoaress/FranSoaress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Que bom receber você aqui! :confetti_ball::confetti_ball::confetti_ball:	
 
-Here are some ideas to get you started:
+## 📋 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Muito prazer, eu sou a **Fran**. :alien:	 
+
+Sou apaixonada por desafios, curiosa e extremamente inquieta. :woman_dancing:
+
+## 🛠️ Skills
+
+ :trophy: Estas são as linguágens que eu tenho domínio e os frameworks que utilizo. 🚀
+
+:heavy_check_mark: HTML                       
+:heavy_check_mark: CSS                       
+:heavy_check_mark: Tailwind                       
+:heavy_check_mark: SASS                       
+:heavy_check_mark: JavaScript                       
+:heavy_check_mark: Figma                       
+:heavy_check_mark: SEO                       
+
+---
+⌨️ com ❤️ por Fran.
+
